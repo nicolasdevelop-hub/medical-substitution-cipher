@@ -20,7 +20,8 @@ make criptografia
 // 2. Run it by providing the 26-letter substitution key. Example:
 ./criptografia JTREKYAVOGDXWPSNCUIZLFBMHQ
 
-// 3. Enter the text to be encrypted when prompted. ```
+// 3. Enter the text to be encrypted when prompted.
+```
 
 
 ## **About the author**
