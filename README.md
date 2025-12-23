@@ -22,5 +22,6 @@ make criptografia
 
 // 3. Enter the text to be encrypted when prompted.
 
-About the author
+
+## **About the author**
 Medical and Computer Science student. Project developed as part of the OSSU curriculum.
